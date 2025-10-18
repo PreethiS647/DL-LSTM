@@ -38,9 +38,9 @@ Evaluate model accuracy, plot loss curves, and visualize predictions on a sample
 
 ## PROGRAM
 
-### Name: S.Yogesh
+### Name: S.Preethi S
 
-### Register Number: 21224230311
+### Register Number: 212223230157
 
 ```python
 
